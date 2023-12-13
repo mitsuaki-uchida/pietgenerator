@@ -1,0 +1,9 @@
+.mypy_cache/
+.devcontainer/
+.vscode/
+__pycache__/
+docs/build/*
+*.py[cod]
+*$py.class
+*.png
+*.log
