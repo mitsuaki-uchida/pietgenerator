@@ -20,7 +20,7 @@ class Main:
 
     _PROG: str = "pietgenerator"
     """ 本プログラム名 """
-    _USAGE: str = "usage: python -m pietgenerator [message] [output_path] [options]"
+    _USAGE: str = "python -m pietgenerator [message] [output_path] [options]"
     """ 本プログラムのusage """
 
     @classmethod
